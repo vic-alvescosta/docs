@@ -13,6 +13,11 @@ Para começar, leia atentamente as informações abaixo e, caso surja quaisquer 
 perguntar para a diretoria anterior.
 
 ### O que faz a diretoria?
+A diretoria da presidência possui como objetivo criar, organizar e manter os processos internos da empresa. Dessa forma, cabe ao diretor presidente, e seu conselheiro, adotarem medidas que permitam que a empresa esteja em constante evolução, por meio da indentificação de problemas e criação de soluções estruturadas em metas, acompanhando de perto as atividades realizadas pelas outras diretorias.
 
 ### Quais as responsabilidades da diretoria?
-1. 
+1. Estruturação da gestão interna e controle de metas;
+2. Controle e acompanhamento das atividades das diretorias;
+3. Comando das reuniões gerais semanais;
+4. Controle de prioridade das pautas semanais;
+5. Atribuição jurídica em contratos e documentações como sócio da empresa.
