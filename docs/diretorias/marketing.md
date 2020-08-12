@@ -13,6 +13,9 @@ Para começar, leia atentamente as informações abaixo e, caso surja quaisquer 
 perguntar para a diretoria anterior.
 
 ### O que faz a diretoria?
+A diretoria é responsável por cuidar da imagem interna e externa da empresa júnior seja em ações de endomarketing ou ações externas de marketing nas redes sociais. O time de marketing ajuda a construir a reputação da empresa júnior através de recursos visuais (design) e produção de conteúdo e orhanizaçãos de eventos internos da empresa como processo seletivo, Hut IO, Hut Day etc.
 
 ### Quais as responsabilidades da diretoria?
-1. 
+1. Administrar as redes sociais
+2. Costruir uma comunicação aliada os valores da empresa.
+3. Administrar ações de endomarketing.
